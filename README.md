@@ -2,13 +2,13 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hannibal730.Hannibal730)
 -->
 
-# 👑 HyeonWoo's World 👑
+#  HyeonWoo's World 
 
-- 📫 **e-mail:  imhyeonwoo21@gmail.com**
+- ✉️ **e-mail:  imhyeonwoo21@gmail.com**
 
-- 🏫 **College:  [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do)**
+- 👨🏼‍🎓 **University:  [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do)**
 
-- 📊 **Primary major:  [Smart Vehicle Engineering](https://www.konkuk.ac.kr/smartvehicle/5527/subview.do)**
+- 📚 **Primary major:  [Smart Vehicle Engineering](https://www.konkuk.ac.kr/smartvehicle/5527/subview.do)**
 
 - ✨ **Interests:  Motion Planning and Control for Autonomous Driving Systems**
 
