@@ -8,15 +8,14 @@
 
 - 🏫 **College:  [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do)**
 
-- 📊 **Primary major:  [Applied Statistics](https://stat.konkuk.ac.kr/stat/index.do)**
+- 📊 **Primary major:  [Smart Vehicle Engineering](https://www.konkuk.ac.kr/smartvehicle/5527/subview.do)**
 
-- ✨ **Interests:  Adversarial Training for Autonomous Vehicles**
+- ✨ **Interests:  Motion Planning and Control for Autonomous Driving Systems**
 
 - 💻 **Stacks:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
 <!--
