@@ -1,7 +1,3 @@
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hannibal730.Hannibal730)
-
-
 #  HyeonWoo's World 
 
 - ✉️ **e-mail:  imhyeonwoo21@gmail.com**
@@ -17,14 +13,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
 
-
-<!--
-[![Hannibal730’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hannibal730&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
-
-<!--
-<img src="./profile-3d-contrib/profile-night-green.svg" width="500" />
--->
 
 <br>
 
@@ -106,11 +94,7 @@
 ![Image](https://github.com/user-attachments/assets/45a4bb4e-2693-4ca1-a9e5-62a8b052d0e3)
 
 
-![Hannibal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hannibal730&show_icons=true&count_private=true&theme=radical)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 
 
