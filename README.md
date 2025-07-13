@@ -45,7 +45,7 @@
    | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/ASP/x500_gimbal.gif" width="600" alt="UAV" /> |
 
 
-
+<!--
 <br>
 
 * ## 2024.12 ~ 2025.01
@@ -63,11 +63,11 @@
    | :-------------------------------------------------------------------------------------------- |
    | <img src="https://github.com/user-attachments/assets/8636e5e5-9f0b-404a-b9ab-b0bb32dffca7" width="600" alt="predict Example" /> |
    
+-->
 
 
 
-
-
+<!--
 <br>
 
 * ## 2024.06
@@ -82,7 +82,7 @@
    |left|<img src="https://github.com/user-attachments/assets/85175b2b-5a76-460c-bf55-6e8d5ac9a00f" width="100" alt="Image"> |
    |right|<img src="https://github.com/user-attachments/assets/8ba87864-7ac3-47da-8831-2f9b69dc81dc" width="100" alt="Image"> |
    
-
+-->
 
 
 
