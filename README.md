@@ -22,7 +22,7 @@
    | 2025 Student Mobility Competition |
    | :-------------------------------------------------------------------------------------------- |
    | My role: Led the development of the Path Planning and Control stack, including sensor fusion (GPS/IMU, LiDAR), local path generation, and designing lateral (Pure Pursuit) and longitudinal controllers. |
-   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/pathplanning_rviz.gif" width="800" alt="Final RViz without Speed Planning" /> |
+   | <img src="assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/pathplanning_rviz.gif" width="600" alt="Final RViz without Speed Planning" /> |
    | <img src="assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/cone_radius_safe_zone.gif" width="600" alt="cone safe zone" /> |
 
 <br>
@@ -41,8 +41,8 @@
 
    | [ROS-Based integrated platform for Autonomous Driving and Flight simulation](https://github.com/imhyeonwoo/AutonomousSystemPlatform) |
    | :-------------------------------------------------------------------------------------------- |
-   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/ASP/x1_asp.gif" width="600" alt="UGV" /> |
-   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/ASP/x500_gimbal.gif" width="600" alt="UAV" /> |
+   | <img src="assests/ASP/x1_asp.gif" width="600" alt="UGV" /> |
+   | <img src="assests/ASP/x500_gimbal.gif" width="600" alt="UAV" /> |
 
 
 <!--
