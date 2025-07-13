@@ -1,4 +1,4 @@
-#  HyeonWoo's World 
+#  Im Hyeon Woo 
 
 - ✉️ **e-mail:  imhyeonwoo21@gmail.com**
 
@@ -15,15 +15,14 @@
 
 
 <br>
-<!--
+
 # Ongoing team project
-* ## 2024.12 ~ 2025.07
+* ## 2025.06 ~ 
    
-   | The 4th International University Student EV Autonomous Driving Competition|
+   | 2025 Student Mobility Competition |
    | :-------------------------------------------------------------------------------------------- |
-   | My role: 3D detection with RRT path planning & Sensor fusion of GPS and 3D LiDAR |
-   | <img src="https://github.com/user-attachments/assets/72edc9fe-0ec0-4158-8052-e24667f2eda4" width="600" alt="predict Example" /> |
-   | <img src="https://github.com/user-attachments/assets/8cc75928-249b-4a52-b70f-abfa284b0144" width="180" alt="predict Example" /> |
+   | My role: Led the development of the Path Planning and Control stack, including sensor fusion (GPS/IMU, LiDAR), local path generation, and designing lateral and longitudinal controllers. |
+   | <img src="[https://github.com/user-attachments/assets/72edc9fe-0ec0-4158-8052-e24667f2eda4](https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/pathplanning_rviz.gif)" width="600" alt="predict Example" /> |
 
 
 <br>
@@ -82,7 +81,7 @@
    |go|<img src="https://github.com/user-attachments/assets/95112164-7efa-46c3-af64-9926aae694b3" width="100" alt="Image"> |
    |left|<img src="https://github.com/user-attachments/assets/85175b2b-5a76-460c-bf55-6e8d5ac9a00f" width="100" alt="Image"> |
    |right|<img src="https://github.com/user-attachments/assets/8ba87864-7ac3-47da-8831-2f9b69dc81dc" width="100" alt="Image"> |
-    -->
+   
 
 
 
