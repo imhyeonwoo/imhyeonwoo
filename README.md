@@ -16,7 +16,7 @@
 
 <br>
 
-# Ongoing team project
+# Ongoing Projects
 * ## 2025.06 ~ 
    
    | 2025 Student Mobility Competition |
@@ -28,7 +28,7 @@
 <br>
 <br>
 
-# Completed projects
+# Completed Projects
 * ## 2025.07
    | [Global Path Planning and GPS+Camera](https://github.com/imhyeonwoo/Jeju-EV-Self-Driving-Competition-GPS) |
    | :-------------------------------------------------------------------------------------------- |
