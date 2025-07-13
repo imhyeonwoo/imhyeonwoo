@@ -22,24 +22,24 @@
    | 2025 Student Mobility Competition |
    | :-------------------------------------------------------------------------------------------- |
    | My role: Led the development of the Path Planning and Control stack, including sensor fusion (GPS/IMU, LiDAR), local path generation, and designing lateral (Pure Pursuit) and longitudinal controllers.|
-   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/pathplanning_rviz.gif" width="800" alt="Final RViz without Speed Planning" />                                        |
+   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/pathplanning_rviz.gif" width="800" alt="Final RViz without Speed Planning" />                                        |
 
 
 <br>
 <br>
 
 # Completed projects
-* ## 2025.06
-   | [3D-Lidar-wall-detection](https://github.com/Hannibal730/3D-Lidar-wall-detection_ws) |
+* ## 2025.07
+   | [Global Path Planning and GPS+Camera](https://github.com/imhyeonwoo/Jeju-EV-Self-Driving-Competition-GPS) |
    | :-------------------------------------------------------------------------------------------- |
-   | <img src="https://github.com/user-attachments/assets/d5885917-0a70-46a8-8bc6-dbf568cefc94" width="600" alt="predict Example" /> |
+   | <img src="" width="600" alt="predict Example" /> |
    
 
 <br>
 
 * ## 2025.01 ~ 2025.04
 
-   | [3D Multi‑Object Tracking & Future-Position Prediction with Kalman Filter](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
+   | [ROS-Based integrated platform for Autonomous Driving and Flight simulation](https://github.com/imhyeonwoo/AutonomousSystemPlatform) |
    | :-------------------------------------------------------------------------------------------- |
    | <img src="https://github.com/user-attachments/assets/99a2b9df-4cf4-4fdb-9738-3ba760bf70b9" width="600" alt="predict Example" /> |
    | <img src="https://github.com/user-attachments/assets/38ec7578-6955-4c19-8250-30364f4f99ec" width="600" alt="predict Example" /> |
