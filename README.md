@@ -37,7 +37,7 @@
 
 <br>
 
-* ## 2025.01 ~ 2025.04
+* ## 2025.05 ~ 2025.06
 
    | [ROS-Based integrated platform for Autonomous Driving and Flight simulation](https://github.com/imhyeonwoo/AutonomousSystemPlatform) |
    | :-------------------------------------------------------------------------------------------- |
