@@ -22,7 +22,7 @@
    | 2025 Student Mobility Competition |
    | :-------------------------------------------------------------------------------------------- |
    | My role: Led the development of the Path Planning and Control stack, including sensor fusion (GPS/IMU, LiDAR), local path generation, and designing lateral and longitudinal controllers. |
-   | <img src="[https://github.com/user-attachments/assets/72edc9fe-0ec0-4158-8052-e24667f2eda4](https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/pathplanning_rviz.gif)" width="600" alt="predict Example" /> |
+   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/pathplanning_rviz.gif" width="600" alt="Final RViz without Speed Planning" /> |
 
 
 <br>
