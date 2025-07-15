@@ -24,6 +24,7 @@
    | My Role: Led the Development of the Path Planning and Control Stack |
    | <img src="assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/pathplanning_rviz.gif" width="600" alt="Final RViz without Speed Planning" /> |
    | <img src="assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/cone_radius_safe_zone.gif" width="600" alt="cone safe zone" /> |
+   | <img src="assests/award%20certificate/드림학기제_장려상.jpg" width="600" alt="Award Certificate" /> |
 
 <br>
 <br>
