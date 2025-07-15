@@ -32,7 +32,7 @@
 * ## 2025.07
    | [Global Path Planning and GPS+Camera](https://github.com/imhyeonwoo/Jeju-EV-Self-Driving-Competition-GPS) |
    | :-------------------------------------------------------------------------------------------- |
-   | <img src="" width="600" alt="predict Example" /> |
+   | <img src="assests/award%20certificate/국제EV자율주행경진대회%20참가확인서.jpg" width="600" alt="참가확인서" /> |
    
 
 <br>
