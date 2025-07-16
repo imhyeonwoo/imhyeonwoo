@@ -30,7 +30,7 @@
    
    | 2025 Student Mobility Competition(Localization) |
    | :-------------------------------------------------------------------------------------------- |
-   | My Role: Implementing Kalman Filter for GPS and IMU Sensor Fusion for 1/5 scale car|
+   | My Role: Implementing Kalman Filter for GPS and IMU Sensor Fusion |
    | <img src="assests/창작모빌리티/GPS%26IMU_raw%20data.png" width="600" alt="raw data" /> 
 
 <br>
@@ -40,7 +40,7 @@
 * ## 2025.03~06
    | 자기설계학기제(드림학기제) in Konkuk University|
    | :-------------------------------------------------------------------------------------------- |
-   | My Role: Led the Development of the Local/Global Path Planning|
+   | My Role: Led the Development of the Local/Global Path Planning for 1/5 scale car|
    | <img src="assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/pathplanning_rviz.gif" width="600" alt="Final RViz without Speed Planning" /> |
    | <img src="assests/award%20certificate/%EB%93%9C%EB%A6%BC%ED%95%99%EA%B8%B0%EC%A0%9C_25-1_%EC%9E%A5%EB%A0%A4%EC%83%81.jpg" width="300" alt="Award Certificate" /> |
    
