@@ -33,7 +33,7 @@
    | :-------------------------------------------------------------------------------------------- |
    | My Role: Led the Development of the Local/Global Path Planning|
    | <img src="assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/pathplanning_rviz.gif" width="600" alt="Final RViz without Speed Planning" /> |
-   | <img src="assests/award%20certificate/드림학기제_장려상.jpg" width="600" alt="Award Certificate" /> |
+   | <img src="assests/award%20certificate/%EB%93%9C%EB%A6%BC%ED%95%99%EA%B8%B0%EC%A0%9C_25-1_%EC%9E%A5%EB%A0%A4%EC%83%81.jpg" width="300" alt="Award Certificate" /> |
    
 
 <br>
