@@ -6,7 +6,7 @@
 
 - 📚 **Primary major:  [Smart Vehicle Engineering](https://www.konkuk.ac.kr/smartvehicle/5527/subview.do)**
 
-- ✨ **Interests: Motion Planning and Control for Autonomous Driving Systems, as well as general control system theory and applications**
+- ✨ **Interests: Motion Planning and Control for Autonomous Systems, as well as general control system theory and applications**
 
 - 💻 **Stacks:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
