@@ -30,7 +30,7 @@
    
    | 2025 Student Mobility Competition(Localization) |
    | :-------------------------------------------------------------------------------------------- |
-   | My Role: Implementing Kalman Filter for GPS and IMU Sensor Fusion |
+   | My Role: Implementing Kalman Filter for GPS and IMU Sensor Fusion for 1/5 scale car|
    | <img src="assests/창작모빌리티/GPS%26IMU_raw%20data.png" width="600" alt="raw data" /> 
 
 <br>
