@@ -19,17 +19,26 @@
 # Ongoing Projects
 * ## 2025.06 ~ 
    
-   | 2025 Student Mobility Competition |
+   | 2025 Student Mobility Competition(Planning)|
    | :-------------------------------------------------------------------------------------------- |
    | My Role: Led the Development of the Path Planning and Control Stack |
    | <img src="assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/cone_radius_safe_zone.gif" width="600" alt="cone safe zone" /> 
+
+<br>
+
+* ## 2025.07 ~ 
+   
+   | 2025 Student Mobility Competition(Localization) |
+   | :-------------------------------------------------------------------------------------------- |
+   | My Role: Implementing Kalman Filter for GPS and IMU Sensor Fusion |
+   | <img src="assests/창작모빌리티/GPS%26IMU_raw%20data.png" width="600" alt="raw data" /> 
 
 <br>
 <br>
 
 # Completed Projects
 * ## 2025.03~06
-   | [자기설계학기제(드림학기제)]|
+   | 자기설계학기제(드림학기제) in Konkuk University|
    | :-------------------------------------------------------------------------------------------- |
    | My Role: Led the Development of the Local/Global Path Planning|
    | <img src="assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/pathplanning_rviz.gif" width="600" alt="Final RViz without Speed Planning" /> |
