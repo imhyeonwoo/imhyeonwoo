@@ -29,7 +29,7 @@
 
 * ## 2025.07 ~ 
    
-   | 2025 Student Mobility Competition(Localization) |
+   | [2025 Student Mobility Competition(Localization)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Localization) |
    | :-------------------------------------------------------------------------------------------- |
    | My Role: Implementing Kalman Filter for GPS and IMU Sensor Fusion |
    | <img src="assests/창작모빌리티/GPS%26IMU_raw%20data.png" width="600" alt="raw data" /> 
