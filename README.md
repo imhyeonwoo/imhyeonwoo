@@ -52,6 +52,13 @@
    | :-------------------------------------------------------------------------------------------- |
    | <img src="assests/award%20certificate/국제EV자율주행경진대회%20참가확인서.jpg" width="600" alt="참가확인서" /> |
    
+<br>
+
+* ## 2025.06
+   | [Drone-Attitude-Estimation-Project](https://github.com/imhyeonwoo/Drone-Attitude-Estimation-Project/tree/main) |
+   | :-------------------------------------------------------------------------------------------- |
+   | Goal: Estimate Roll&Pitch of Drone using Complementary Filter(IMU, Optitrack Used) |
+   | <img src="assests/award%20certificate/국제EV자율주행경진대회%20참가확인서.jpg" width="600" alt="참가확인서" /> |
 
 <br>
 
