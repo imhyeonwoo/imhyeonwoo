@@ -58,7 +58,7 @@
 * ## 2025.06
    | [Drone-Attitude-Estimation-Project](https://github.com/imhyeonwoo/Drone-Attitude-Estimation-Project/tree/main) |
    | :-------------------------------------------------------------------------------------------- |
-   | Goal: Estimate Roll&Pitch of Drone using Complementary Filter(IMU, Optitrack Used) |
+   | Goal: Estimate Roll&Pitch of Drone using Complementary Filter |
    | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/Konkuk/Signal%26System/complementary%20filter.png" alt="Complementary Filter Result" width="410"/>
      <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/Konkuk/Signal%26System/rollandpitch.jpg" alt="Roll and Pitch Result" width="410"/> |
 
