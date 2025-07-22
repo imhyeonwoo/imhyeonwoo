@@ -27,12 +27,16 @@
 
 <br>
 
-* ## 2025.07 ~ 
-   
-   | [2025 Student Mobility Competition(Localization)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Localization) |
-   | :-------------------------------------------------------------------------------------------- |
-   | My Role: Implementing Kalman Filter for GPS and IMU Sensor Fusion |
-   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/GPS%26IMU_raw%20data.png" width="600" alt="raw data" /> 
+* ## 2025.07 ~
+
+| [2025 Student Mobility Competition(Localization)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Localization) |
+| :-------------------------------------------------------------------------------------------- |
+| **My Role:** Implementing Kalman Filter for GPS and IMU Sensor Fusion<br>
+<b>IMU Gyroscope Preprocessing</b><br>
+<img src="https://raw.githubusercontent.com/imhyeonwoo/imhyeonwoo/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/GPS-IMU-Fusion/imu_gyro_preprocess.gif" width="420"><br><br>
+<b>IMU Linear Acceleration Preprocessing</b><br>
+<img src="https://raw.githubusercontent.com/imhyeonwoo/imhyeonwoo/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/GPS-IMU-Fusion/imu_linearaccel_preprocess.gif" width="420"> |
+
 
 <br>
 <br>
