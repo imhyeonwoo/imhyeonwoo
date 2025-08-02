@@ -23,8 +23,8 @@
    | [2025 Student Mobility Competition(Planning)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Planning-Control)|
    | :-------------------------------------------------------------------------------------------- |
    | **My Role:** Developing Path Planning and Control Stack for 1/2 scale car|
-   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/1Local%20Path.gif" width="600" alt="Local Planned Path" /> |
-   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/2MPC%20Path.gif" width="600" alt="Time Resampled Path" /> |
+   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/1Local%20Path.gif" width="500" alt="Local Planned Path" /> |
+   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/2MPC%20Path.gif" width="500" alt="Time Resampled Path" /> |
 
 <br>
 
