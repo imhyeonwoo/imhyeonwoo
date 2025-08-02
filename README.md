@@ -22,20 +22,21 @@
    
    | [2025 Student Mobility Competition(Planning)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Planning-Control)|
    | :-------------------------------------------------------------------------------------------- |
-   | My Role: Led the Development of the Path Planning and Control Stack for 1/2 scale car|
-   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/cone_radius_safe_zone.gif" width="600" alt="cone safe zone" /> 
+   | **My Role:** Developing Path Planning and Control Stack for 1/2 scale car|
+   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/1Local%20Path.gif" width="600" alt="Local Planned Path" /> |
+   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/2MPC%20Path.gif" width="600" alt="Time Resampled Path" /> |
 
 <br>
 
 * ## 2025.07 ~
 
-| [2025 Student Mobility Competition(Localization)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Localization) |
-| :-------------------------------------------------------------------------------------------- |
-| **My Role:** Implementing Kalman Filter for GPS and IMU Sensor Fusion<br>
-<b>IMU Gyroscope Preprocessing</b><br>
-<img src="https://raw.githubusercontent.com/imhyeonwoo/imhyeonwoo/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/GPS-IMU-Fusion/imu_gyro_preprocess.gif" width="420"><br><br>
-<b>Yaw Comparision</b><br>
-<img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/GPS-IMU-Fusion/yaw_comparision.gif" width="500"> |
+   | [2025 Student Mobility Competition(Localization)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Localization) |
+   | :-------------------------------------------------------------------------------------------- |
+   | **My Role:** Implementing Kalman Filter for GPS and IMU Sensor Fusion<br>
+   <b>IMU Gyroscope Preprocessing</b><br>
+   <img src="https://raw.githubusercontent.com/imhyeonwoo/imhyeonwoo/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/GPS-IMU-Fusion/imu_gyro_preprocess.gif" width="420"><br><br>
+   <b>Yaw Comparision</b><br>
+   <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/GPS-IMU-Fusion/yaw_comparision.gif" width="500"> |
 
 
 <br>
