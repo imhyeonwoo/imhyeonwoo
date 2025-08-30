@@ -27,7 +27,7 @@
 
 <br>
 
-* ## 2025.07 ~
+* ## 2025.07 ~ 2025.08
 
    | [2025 Student Mobility Competition(Localization)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Localization) |
    | :-------------------------------------------------------------------------------------------- |
@@ -42,7 +42,7 @@
 <br>
 
 # Completed Projects
-* ## 2025.03~06
+* ## 2025.03 ~ 06
    | 자기설계학기제(드림학기제) in Konkuk University|
    | :-------------------------------------------------------------------------------------------- |
    | My Role: Led the Development of the Local/Global Path Planning for 1/5 scale car|
