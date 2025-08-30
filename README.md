@@ -42,7 +42,7 @@
 <br>
 
 # Completed Projects
-* ## 2025.03 ~ 06
+* ## 2025.03 ~ 2025.06
    | 자기설계학기제(드림학기제) in Konkuk University|
    | :-------------------------------------------------------------------------------------------- |
    | My Role: Led the Development of the Local/Global Path Planning for 1/5 scale car|
