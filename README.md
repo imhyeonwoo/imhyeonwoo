@@ -1,14 +1,14 @@
 #  Im Hyeon Woo 
 
-- ✉️ **e-mail:  imhyeonwoo21@gmail.com**
+- **e-mail:  imhyeonwoo21@gmail.com**
 
-- 👨🏼‍🎓 **University:  [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do)**
+- **University:  [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do)**
 
-- 📚 **Primary major:  [Smart Vehicle Engineering](https://www.konkuk.ac.kr/smartvehicle/5527/subview.do)**
+- **Primary major:  [Smart Vehicle Engineering](https://www.konkuk.ac.kr/smartvehicle/5527/subview.do)**
 
-- ✨ **Interests: Motion Planning and Control for Autonomous Systems, as well as general control system theory and applications**
+- **Interests: Motion Planning and Control for Autonomous Systems, as well as general control system theory and applications**
 
-- 💻 **Stacks:** 
+- **Stacks:** 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -28,7 +28,7 @@
 
 <br>
 
-* ## 2025.07 ~ 2025.08
+<!-- * ## 2025.07 ~ 2025.08
 
    | [2025 Student Mobility Competition(Localization)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Localization) |
    | :-------------------------------------------------------------------------------------------- |
@@ -36,7 +36,7 @@
    <b>IMU Gyroscope Preprocessing</b><br>
    <img src="https://raw.githubusercontent.com/imhyeonwoo/imhyeonwoo/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/GPS-IMU-Fusion/imu_gyro_preprocess.gif" width="420"><br><br>
    <b>Yaw Comparision</b><br>
-   <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/GPS-IMU-Fusion/yaw_comparision.gif" width="500"> |
+   <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/GPS-IMU-Fusion/yaw_comparision.gif" width="500"> | -->
 
 
 <br>
@@ -52,10 +52,10 @@
 
 <br>
 
-* ## 2025.07
+<!-- * ## 2025.07
    | [Global Path Planning and GPS+Camera](https://github.com/imhyeonwoo/Jeju-EV-Self-Driving-Competition-GPS) |
    | :-------------------------------------------------------------------------------------------- |
-   | <img src="" width="600" alt="참가확인서" /> |
+   | <img src="" width="600" alt="참가확인서" /> | -->
    
 <br>
 
@@ -77,14 +77,6 @@
 
 
 <!--
-<br>
-
-* ## 2024.12 ~ 2025.01
-
-   | [3D Object Detection on Traffic Dataset](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
-   | :-------------------------------------------------------------------------------------------- |
-   | <img src="https://github.com/user-attachments/assets/2f300088-fca3-4832-b1d4-dda7380f6602" width="600" alt="Tracking Example" /> |
-
 
 <br>
 
@@ -96,31 +88,13 @@
    
 -->
 
-
-
-<!--
 <br>
 
-* ## 2024.06
-
-   | [Autonomous driving model learned by Pytorch Transfer Learning](https://github.com/Hannibal730/KONKUK-Univ_Autonomous-Driving-Competition ) |
-   | :-------------------------------------------------------------------------------------------- |
-   | <img src="https://github.com/user-attachments/assets/cbbcbb5f-a21a-42d7-96b6-b477d0f0e6d5" alt="ezgif com-video-to-gif-converter" width="400">   |
-   
-   |Label|Preprocessed <br> train sample|
-   |:---:|:---:|
-   |go|<img src="https://github.com/user-attachments/assets/95112164-7efa-46c3-af64-9926aae694b3" width="100" alt="Image"> |
-   |left|<img src="https://github.com/user-attachments/assets/85175b2b-5a76-460c-bf55-6e8d5ac9a00f" width="100" alt="Image"> |
-   |right|<img src="https://github.com/user-attachments/assets/8ba87864-7ac3-47da-8831-2f9b69dc81dc" width="100" alt="Image"> |
-   
--->
-
-<!--
----
+<!-- ---
 # Stats </h2> 
 <div style="text-align: left;">   <img src="https://github-readme-stats.vercel.app/api?username=imhyeonwoo&show_icons=true&theme=radical" alt="GitHub Stats"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhyeonwoo&layout=compact&theme=radical" alt="Top Languages"/>
--->
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhyeonwoo&layout=compact&theme=radical" alt="Top Languages"/> -->
+
 
 
 
