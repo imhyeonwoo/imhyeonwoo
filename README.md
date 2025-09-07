@@ -21,7 +21,7 @@
 # Ongoing Projects
 * ## 2025.06 ~ 
    
-   | [2025 Student Mobility Competition(Planning)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Planning-Control)|
+   | [2025 Student Mobility Competition(Planning&Control)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Planning-Control)|
    | :-------------------------------------------------------------------------------------------- |
    | **My Role:** Developing Path Planning and Control Stack for 1/2 scale car|
    | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/final.gif" width="500" alt="Path Tracking" /> |
