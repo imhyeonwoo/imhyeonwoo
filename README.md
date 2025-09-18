@@ -1,25 +1,7 @@
 #  Im Hyeon Woo 
 
-- **e-mail:  imhyeonwoo21@gmail.com**
-
-- **University:  [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do)**
-
-- **Primary major:  [Smart Vehicle Engineering](https://www.konkuk.ac.kr/smartvehicle/5527/subview.do)**
-
-- **Interests: Motion Planning and Control for Autonomous Systems, as well as general control system theory and applications**
-
-- **Stacks:** 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
-
-
-<br>
-
-# Ongoing Projects
-* ## 2025.06 ~ 
+## Ongoing Projects
+* ### 2025.06 ~ 
    
    | [2025 Student Mobility Competition(Planning&Control)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Planning-Control)|
    | :-------------------------------------------------------------------------------------------- |
@@ -42,8 +24,8 @@
 <br>
 <br>
 
-# Completed Projects
-* ## 2025.03 ~ 2025.06
+## Completed Projects
+* ### 2025.03 ~ 2025.06
    | 자기설계학기제(드림학기제) in Konkuk University|
    | :-------------------------------------------------------------------------------------------- |
    | My Role: Led the Development of the Local/Global Path Planning for 1/5 scale car|
@@ -59,7 +41,7 @@
    
 <br>
 
-* ## 2025.06
+* ### 2025.06
    | [Drone-Attitude-Estimation-Project](https://github.com/imhyeonwoo/Drone-Attitude-Estimation-Project/tree/main) |
    | :-------------------------------------------------------------------------------------------- |
    | Goal: Estimate Roll&Pitch of Drone using Complementary Filter |
@@ -68,7 +50,7 @@
 
 <br>
 
-* ## 2025.05 ~ 2025.06
+* ### 2025.05 ~ 2025.06
 
    | [ROS-Based integrated platform for Autonomous Driving and Flight simulation](https://github.com/imhyeonwoo/AutonomousSystemPlatform) |
    | :-------------------------------------------------------------------------------------------- |
