@@ -10,21 +10,22 @@
 
 <br>
 
-<!-- * ## 2025.07 ~ 2025.08
-
-   | [2025 Student Mobility Competition(Localization)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Localization) |
-   | :-------------------------------------------------------------------------------------------- |
-   | **My Role:** Sensor Fusion of GPS and IMU<br>
-   <b>IMU Gyroscope Preprocessing</b><br>
-   <img src="https://raw.githubusercontent.com/imhyeonwoo/imhyeonwoo/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/GPS-IMU-Fusion/imu_gyro_preprocess.gif" width="420"><br><br>
-   <b>Yaw Comparision</b><br>
-   <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/GPS-IMU-Fusion/yaw_comparision.gif" width="500"> | -->
-
 
 <br>
 <br>
 
 ## Completed Projects
+* ## 2025.07 ~ 2025.08
+
+   | [2025 Student Mobility Competition(Localization)](https://github.com/imhyeonwoo/ros2-gnss-imu-fusion) |
+   | :-------------------------------------------------------------------------------------------- |
+   | My Role: GNSS-IMU Fusion using Complementary Filter and Extended Kalman Filter|
+   | <img src="https://github.com/imhyeonwoo/ros2-gnss-imu-fusion/blob/main/docs/gnss-imu-ekf.gif" width="600" alt="Final RViz without Speed Planning" /> |
+
+
+
+<br>
+
 * ### 2025.03 ~ 2025.06
    | 자기설계학기제(드림학기제) in Konkuk University|
    | :-------------------------------------------------------------------------------------------- |
@@ -34,10 +35,6 @@
 
 <br>
 
-<!-- * ## 2025.07
-   | [Global Path Planning and GPS+Camera](https://github.com/imhyeonwoo/Jeju-EV-Self-Driving-Competition-GPS) |
-   | :-------------------------------------------------------------------------------------------- |
-   | <img src="" width="600" alt="참가확인서" /> | -->
    
 <br>
 
@@ -71,11 +68,6 @@
 -->
 
 <br>
-
-<!-- ---
-# Stats </h2> 
-<div style="text-align: left;">   <img src="https://github-readme-stats.vercel.app/api?username=imhyeonwoo&show_icons=true&theme=radical" alt="GitHub Stats"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhyeonwoo&layout=compact&theme=radical" alt="Top Languages"/> -->
 
 
 
