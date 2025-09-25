@@ -17,7 +17,7 @@
 ## Completed Projects
 * ## 2025.07 ~ 2025.08
 
-   | [2025 Student Mobility Competition(Localization)](https://github.com/imhyeonwoo/ros2-gnss-imu-fusion) |
+   | [2025 Student Mobility Competition(GNSS-IMU Fusion)](https://github.com/imhyeonwoo/ros2-gnss-imu-fusion) |
    | :-------------------------------------------------------------------------------------------- |
    | My Role: GNSS-IMU Fusion using Complementary Filter and Extended Kalman Filter|
    | <img src="https://github.com/imhyeonwoo/ros2-gnss-imu-fusion/blob/main/docs/gnss-imu-ekf.gif" width="600" alt="Final RViz without Speed Planning" /> |
