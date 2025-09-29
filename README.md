@@ -17,6 +17,20 @@
 ## Completed Projects
 * ## 2025.07 ~ 2025.08
 
+   | [2025 HLFMA MORAI Competition](https://github.com/imhyeonwoo/hlfma_morai_control)|
+   | :-------------------------------------------------------------------------------------------- |
+   | My Role: Decision and Control in MORAI Simulator|
+   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/MORAI/HLFMA.gif" width="600" alt="Final RViz with Simulator Inteface" /> |
+
+
+
+<br>
+
+<br>
+
+## Completed Projects
+* ## 2025.07 ~ 2025.08
+
    | [2025 Student Mobility Competition(GNSS-IMU Fusion)](https://github.com/imhyeonwoo/ros2-gnss-imu-fusion) |
    | :-------------------------------------------------------------------------------------------- |
    | My Role: GNSS-IMU Fusion using Complementary Filter and Extended Kalman Filter|
