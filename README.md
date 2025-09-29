@@ -15,7 +15,7 @@
 <br>
 
 ## Completed Projects
-* ## 2025.07 ~ 2025.08
+* ## 2025.08 ~ 2025.09
 
    | [2025 HLFMA MORAI Competition](https://github.com/imhyeonwoo/hlfma_morai_control)|
    | :-------------------------------------------------------------------------------------------- |
