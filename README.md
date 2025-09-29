@@ -10,7 +10,6 @@
 
 <br>
 
-
 <br>
 <br>
 
@@ -22,21 +21,16 @@
    | My Role: Decision and Control in MORAI Simulator|
    | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/MORAI/HLFMA.gif" width="600" alt="Final RViz with Simulator Inteface" /> |
 
-
-
 <br>
 
 <br>
 
-## Completed Projects
 * ## 2025.07 ~ 2025.08
 
    | [2025 Student Mobility Competition(GNSS-IMU Fusion)](https://github.com/imhyeonwoo/ros2-gnss-imu-fusion) |
    | :-------------------------------------------------------------------------------------------- |
    | My Role: GNSS-IMU Fusion using Complementary Filter and Extended Kalman Filter|
    | <img src="https://github.com/imhyeonwoo/ros2-gnss-imu-fusion/blob/main/docs/gnss-imu-ekf.gif" width="600" alt="Final RViz without Speed Planning" /> |
-
-
 
 <br>
 
@@ -46,7 +40,6 @@
    | My Role: Led the Development of the Local/Global Path Planning for 1/5 scale car|
    | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/pathplanning_rviz.gif" width="600" alt="Final RViz without Speed Planning" /> |
    
-
 <br>
 
    
