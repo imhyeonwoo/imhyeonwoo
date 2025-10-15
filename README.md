@@ -62,17 +62,16 @@
    | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/ASP/x500_gimbal.gif" width="600" alt="UAV" /> |
 
 
-<!--
 
 <br>
 
-* ## 2024.09 ~ 2024.11
+* ## 2024.07 ~ 2024.08
 
-   | [Lane Detection & Pure Pursuit for Steering Angle of Local Path Planning](https://github.com/Hannibal730/SlidingWindow-LaneDetection-PurePursuit) |
+   | [Lane Detection(Sliding Windows) & Pure Pursuit](https://github.com/imhyeonwoo/Sliding-Windows-Path-Planning-Pure-Pursuit) |
    | :-------------------------------------------------------------------------------------------- |
-   | <img src="https://github.com/user-attachments/assets/8636e5e5-9f0b-404a-b9ab-b0bb32dffca7" width="600" alt="predict Example" /> |
+   | My Role: Lane Detection, Path Planning, and Path Tracking|
+   | <img src="https://github.com/imhyeonwoo/Sliding-Windows-Path-Planning-Pure-Pursuit/blob/main/docs/lane%20follower%20visualization.gif" width="600" alt="Overall Pipeline" /> |
    
--->
 
 <br>
 
