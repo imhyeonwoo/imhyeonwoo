@@ -1,7 +1,12 @@
 #  Im Hyeon Woo 
 
 ## Ongoing Projects
-* ### 2025.06 ~ 
+
+<br>
+<br>
+
+## Completed Projects
+* ### 2025.06 ~ 2025.10
    
    | [2025 Student Mobility Competition(Planning&Control)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Planning-Control)|
    | :-------------------------------------------------------------------------------------------- |
@@ -10,10 +15,6 @@
 
 <br>
 
-<br>
-<br>
-
-## Completed Projects
 * ## 2025.08 ~ 2025.09
 
    | [2025 HLFMA MORAI Competition](https://github.com/imhyeonwoo/hlfma_morai_control)|
