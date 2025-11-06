@@ -12,11 +12,12 @@
 
 ## Completed Projects
 * ### 2025.06 ~ 2025.10
-   
-   | [2025 Student Mobility Competition(Planning&Control)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Planning-Control)|
-   | :-------------------------------------------------------------------------------------------- |
-   | **My Role:** Leader for Planning/High-Level Control Team|
-   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/final.gif" width="500" alt="Path Tracking" /> |
+
+  | [2025 Student Mobility Competition(Planning&Control)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Planning-Control) |
+   | :------------------------------------------------------------------------------------------------------------------------------- |
+   | **My Role:** Leader for Planning/High-Level Control Team |
+   | <p><img src="https://github.com/imhyeonwoo/StudentMobilityCompetition-Planning-Control/blob/main/docs/images/9adaptive%20pure%20pursuit.gif" width="400" /> <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/%EC%B0%BD%EC%9E%91%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0/final.gif" width="425" /></p> |
+
 
 <br>
 
@@ -63,9 +64,9 @@
 * ### 2025.05 ~ 2025.06
 
    | [ROS-Based integrated platform for Autonomous Driving and Flight simulation](https://github.com/imhyeonwoo/AutonomousSystemPlatform) |
-   | :-------------------------------------------------------------------------------------------- |
-   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/ASP/x1_asp.gif" width="600" alt="UGV" /> |
-   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/ASP/x500_gimbal.gif" width="600" alt="UAV" /> |
+   | :------------------------------------------------------------------------------------------------------------------------------- |
+   | <p><img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/ASP/x1_asp.gif" width="400" alt="UGV" /> <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/ASP/x500_gimbal.gif" width="400" alt="UAV" /></p> |
+
 
 
 
