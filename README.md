@@ -6,7 +6,7 @@
    | [Avionics Control](https://github.com/GraduationProject-Team3-Avionics/Control)|
    | :-------------------------------------------------------------------------------------------- |
    | **My Role:** Developing UAV Controller (ROS2 + PX4 Integration)|
-   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/graduation_project/xy_z_yaw_pid.gif" width="1000" alt="Setpoint Control for UAV" /> |
+   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/graduation_project/Linear-MPC_test1.gif" width="1000" alt="Setpoint Control for UAV" /> |
 <br>
 <br>
 
