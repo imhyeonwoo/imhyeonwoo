@@ -1,7 +1,29 @@
 #  Im Hyeon Woo 
 
 ## Ongoing Projects
-* ### 2025.11 ~ 
+
+* ### 2026.03 ~ 
+   
+   | [STM32 based Flight-Controller](https://graduationproject-team3-avionics.github.io/) |
+   | :-------------------------------------------------------------------------------------------- |
+   | **My Role:** Navigation and Control System for Self-Made VTOL |
+   | <a href="https://www.youtube.com/watch?v=3u8Jgs0Natc"><img src="https://img.youtube.com/vi/3u8Jgs0Natc/maxresdefault.jpg" width="500" alt="Setpoint Control for UAV" /></a> |
+
+<br>
+<br>
+
+## Completed Projects
+
+* ### 2026.01 ~ 2026.02
+   
+   | [Loosely-Couple EKF](https://github.com/imhyeonwoo/INS-GNSS-Extended-Kalman-Filter)|
+   | :-------------------------------------------------------------------------------------------- |
+   | **Task:** Integrating GNSS and INS using Loosely-Coupled Extended Kalman Filter |
+   | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/LC%20EKF%20block%20diagram.png" width="600" alt="Setpoint Control for UAV" /> |
+<br>
+<br>
+
+* ### 2025.11 ~ 2025.01
    
    | [Avionics Control](https://github.com/GraduationProject-Team3-Avionics/Control)|
    | :-------------------------------------------------------------------------------------------- |
@@ -10,7 +32,6 @@
 <br>
 <br>
 
-## Completed Projects
 * ### 2025.06 ~ 2025.10
 
   | [2025 Student Mobility Competition(Planning&Control)](https://github.com/imhyeonwoo/StudentMobilityCompetition-Planning-Control) |
