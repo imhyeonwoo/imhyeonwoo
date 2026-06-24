@@ -16,7 +16,7 @@
 
 * ### 2026.01 ~ 2026.02
    
-   | [Loosely-Couple EKF](https://github.com/imhyeonwoo/INS-GNSS-Extended-Kalman-Filter)|
+   | [Loosely-Coupled Extended Kalman Filter](https://github.com/imhyeonwoo/INS-GNSS-Extended-Kalman-Filter)|
    | :-------------------------------------------------------------------------------------------- |
    | **Task:** Integrating GNSS and INS using Loosely-Coupled Extended Kalman Filter |
    | <img src="https://github.com/imhyeonwoo/imhyeonwoo/blob/main/assests/LC%20EKF%20block%20diagram.png" width="600" alt="Setpoint Control for UAV" /> |
