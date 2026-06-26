@@ -2,11 +2,11 @@
 
 ## Ongoing Projects
 
-* ### 2026.03 ~ 
+* ### 2026.03 ~ 2026.06
    
    | [STM32 based Flight-Controller](https://graduationproject-team3-avionics.github.io/) |
    | :-------------------------------------------------------------------------------------------- |
-   | **My Role:** Navigation and Control System for Self-Made VTOL |
+   | **My Role:** Navigation and Control System for Self-Made VTOL Flight Controller |
    | <a href="https://www.youtube.com/watch?v=3u8Jgs0Natc"><img src="https://img.youtube.com/vi/3u8Jgs0Natc/maxresdefault.jpg" width="500" alt="Setpoint Control for UAV" /></a> |
 
 <br>
