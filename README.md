@@ -8,6 +8,7 @@
    | :-------------------------------------------------------------------------------------------- |
    | **My Role:** Navigation and Control System for Self-Made VTOL Flight Controller |
    | <a href="https://www.youtube.com/watch?v=3u8Jgs0Natc"><img src="https://img.youtube.com/vi/3u8Jgs0Natc/maxresdefault.jpg" width="500" alt="Setpoint Control for UAV" /></a> |
+   | [Additional Flight Test Video (First Hovering Test)](https://www.youtube.com/watch?v=hMPfNmHKhVM) |
 
 <br>
 <br>
